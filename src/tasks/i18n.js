@@ -1,0 +1,101 @@
+import Vue from 'vue'
+import VueI18n from 'vue-i18n'
+// import messages from '@/tasks/messages'
+
+Vue.use(VueI18n)
+
+const messages = {
+  en: {
+    userName: 'User Name',
+    login: 'Login',
+    email: 'Email',
+    password: 'Password',
+    acc1: 'Havent an account',
+    acc2: 'Create One.',
+    orlog: 'Or Login With',
+    gologin: 'Go Login',
+    signin: 'Sign In',
+    cAccount: 'Create Account',
+    home: 'NxBuilder',
+    search: '>> >> Search << <<',
+    services: 'Services',
+    notifications: 'Notifications',
+    buildControl: 'Building Control',
+    supervision: 'Surveillance',
+    utilities: 'Utilities',
+    design: 'Design',
+    build: 'Building',
+    consultancy: 'Consultancy',
+    users: 'Users',
+    notice: 'Notices',
+    location: 'Location',
+    more: 'Show more',
+    entity: 'Entity',
+    date: 'Load Date',
+    nprocess: 'No. Process',
+    state: 'Process state',
+    cost: 'Amount',
+    object: 'Process name',
+    phase: 'Phase',
+    obraBorrador: 'No. Building process starting',
+    obraPublicada: 'No. Building process starting',
+    consBorrador: 'No. Consultancy process starting',
+    consPublicada: 'No. Consultancy process starting',
+    personalData: 'Personal Data',
+    statistics: 'Statistics',
+    projects: 'Projects',
+    mas: 'More',
+    profile: 'Profile',
+    adjust: 'Settings'
+  },
+  es: {
+    userName: 'Nombre de usuario',
+    login: 'Iniciar Sesión',
+    email: 'Correo',
+    password: 'Contraseña',
+    acc1: 'No tienes una cuenta?',
+    acc2: 'Registrate',
+    orlog: 'O Inicia Sesión Con',
+    gologin: 'Iniciar Sesión',
+    signin: 'Registrate',
+    cAccount: 'Crear Cuenta',
+    home: 'NxBuilder',
+    search: '>> >> Buscar << <<',
+    services: 'Servicios',
+    notifications: 'Notificaciones',
+    buildControl: 'Control de obra',
+    supervision: 'Supervisión',
+    utilities: 'Utilidades',
+    design: 'Diseño',
+    build: 'Obra',
+    consultancy: 'Consultoría',
+    users: 'Usuarios',
+    notice: 'Noticias',
+    location: 'Ubicación',
+    more: 'Ver mas',
+    entity: 'Entidad',
+    date: 'Fecha de cargue',
+    nprocess: 'No. Proceso',
+    state: 'Estado',
+    cost: 'Valor',
+    object: 'Objeto',
+    phase: 'Fase',
+    obraBorrador: 'No. obras en Borrador',
+    obraPublicada: 'No. obras Publicadas',
+    consBorrador: 'No. Consultorías en borrador',
+    consPublicada: 'No. Consultorías publicadas',
+    personalData: 'Mis Datos',
+    statistics: 'Estadísticas',
+    projects: 'Proyectos',
+    mas: 'Mas',
+    profile: 'Perfil',
+    adjust: 'Ajustes'
+  }
+}
+
+const i18n = new VueI18n({
+  messages,
+  locale: 'es'
+})
+
+export default i18n
