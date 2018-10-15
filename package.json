@@ -1,7 +1,7 @@
 {
-  "name": "test01",
+  "name": "NxBuilder",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "A Beautiful Vue.js project",
   "author": "wilmercampagna",
   "private": true,
   "scripts": {
