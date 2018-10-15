@@ -26,8 +26,9 @@ export default {
         'https://edificioquimbaya.com/wp-content/uploads/2018/02/proyecto-de-vivienda-construccion-sostenible-1080x675.jpg',
         'https://www.cronista.com/__export/1515028627234/sites/diarioelcronista/img/2018/01/03/cc030417e003f11_crop1491215071684_crop1515028626976.jpg_258117318.jpg',
         'https://www.construar.com.ar/wp-content/uploads/2018/01/LA-CONSTRUCCI%C3%93N-SIGUE-VOLANDO-300x215.jpg',
-        'https://revistasumma.com/wp-content/uploads/2015/05/Construcci%C3%B3n1.jpg',
-        'https://actualicese.com/_ig/img/fotos/constructor-concepto-edifi-proyect.jpg'
+        'https://actualicese.com/_ig/img/fotos/constructor-concepto-edifi-proyect.jpg',
+        'https://images.pexels.com/photos/162557/architecture-construction-build-building-162557.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260',
+        'https://images.pexels.com/photos/159358/construction-site-build-construction-work-159358.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260'
       ]
     }
   },

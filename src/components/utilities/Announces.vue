@@ -16,12 +16,12 @@ export default {
   data () {
     return {
       slides: [
-        'http://www.homecenter.com.co/static/categorias/vitrina/n2/construccion/vtn-cat-Hierro.jpg',
-        'http://www.homecenter.com.co/static/categorias/vitrina/n2/construccion/vtn-cat-MaderasTableros1.jpg',
+        'https://images.pexels.com/photos/396303/pexels-photo-396303.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260',
+        'https://images.pexels.com/photos/169647/pexels-photo-169647.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260',
         'https://www.argos.co/Media/Default/images/productos/Cemento.jpg',
         'https://www.argos.co/Media/Default/images/productos/Planta-de-concreto.jpg',
-        'http://www.homecenter.com.co/static/categorias/vitrina/n3/2018/marzo/vitXO/cat1420004.jpg',
-        'http://www.homecenter.com.co/static/categorias/vitrina/n2/construccion/vtn-cat-MaderasTableros1.jpg',
+        'https://images.pexels.com/photos/457937/pexels-photo-457937.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260',
+        'https://images.pexels.com/photos/681335/pexels-photo-681335.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260',
         'https://www.argos.co/Media/Default/images/productos/Cemento.jpg'
       ]
     }

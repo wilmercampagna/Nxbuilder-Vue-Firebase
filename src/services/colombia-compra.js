@@ -26,7 +26,6 @@ function createLicitaciones (licitaciones, id) {
 }
 
 let Dates = newDate()
-console.log(Dates)
 let urlObra = {
   url1: `https://www.datos.gov.co/resource/c6dm-udt9.json?tipo_de_proceso=Licitación Pública&tipo_de_contrato=Obra&fecha_de_cargue_en_el_secop=${Dates.yesterday}`,
   url2: 'https://www.datos.gov.co/resource/c6dm-udt9.json?tipo_de_proceso=Licitación Pública&estado_del_proceso=Borrador&tipo_de_contrato=Obra&anno_cargue_secop=2018',
